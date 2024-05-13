@@ -1,18 +1,9 @@
-## Getting Started
+# Desafio - Conta Terminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio simples de simulação de uma conta bancária com valores fornecidos pelo usuário
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Dentro do desafio, as principais tarefas foram:
+1. Importar a classe "Scanner"
+2. Exibir as mensagens de solicitação de informações para o usuário
+3. Obter, com a classe Scanner, as informações fornecidas pelo usuário
+4. Exibir uma mensagem de confirmação de criação da conta, contendo os dados que o usuário forneceu
